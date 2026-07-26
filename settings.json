@@ -1,0 +1,211 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "One Dark Pro",
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "editor.fontFamily": "'Monaspace Argon Var', monospace",
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss06'",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.list.smoothScrolling": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "workbench.editor.tabActionLocation": "right",
+    "workbench.iconTheme": "file-icons",
+    "window.title": "${rootName}",
+    "editor.accessibilitySupport": "off",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.find.addExtraSpaceOnTop": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.inlineSuggest.enabled": true,
+    "editor.lineNumbers": "interval",
+    "editor.renderWhitespace": "boundary",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+    "scm.diffDecorationsGutterWidth": 2,
+    "editor.stickyScroll.enabled": false,
+    "workbench.tree.expandMode": "singleClick",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.closeOnFileDelete": true,
+    "editor.suggestSelection": "first",
+    "editor.hover.sticky": true,
+    "explorer.compactFolders": false,
+    "debug.onTaskErrors": "debugAnyway",
+    "editor.linkedEditing": true,
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "never",
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.simpleDialog.enable": true,
+    "css.lint.hexColorLength": "ignore",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 6,
+    "extensions.ignoreRecommendations": true,
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.untrackedChanges": "separate",
+    "git.ignoreRebaseWarning": true,
+    "git.inputValidationSubjectLength": 200,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell 7": {
+            "path": "C:\\Program Files\\PowerShell\\7\\pwsh.exe"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "codesnap.transparentBackground": true,
+    "codesnap.showWindowTitle": true,
+    "codesnap.boxShadow": "rgba(0, 0, 0,0) 0 0 0",
+    "search.exclude": {
+        "**/.git": true,
+        "**/.github": true,
+        "**/.nuxt": true,
+        "**/.output": true,
+        "**/.pnpm": true,
+        "**/.vscode": true,
+        "**/.yarn": true,
+        "**/bower_components": true,
+        "**/dist/**": true,
+        "**/logs": true,
+        "**/node_modules": true,
+        "**/out/**": true,
+        "**/package-lock.json": true,
+        "**/pnpm-lock.yaml": true,
+        "**/tmp": true,
+        "**/yarn.lock": true
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": false,
+    "errorLens.enabledDiagnosticLevels": [
+        "warning",
+        "error"
+    ],
+    "errorLens.excludeBySource": [
+        "cSpell",
+        "eslint"
+    ],
+    "cSpell.allowCompoundWords": true,
+    "cSpell.language": "en,en-US",
+    "i18n-ally.autoDetection": true,
+    "i18n-ally.displayLanguage": "en",
+    "i18n-ally.sourceLanguage": "en",
+    "iconify.annotations": true,
+    "iconify.inplace": true,
+    "svg.preview.mode": "svg",
+    "git.replaceTagsWhenPull": true,
+    "[less]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4o",
+    "gitlens.graph.layout": "editor",
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "window.customTitleBarVisibility": "windowed",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "maven.terminal.useJavaHome": true,
+    "maven.executable.path": "/Users/wangqifan/apache-maven-3.9.12/bin/mvn",
+    "maven.settingsFile": "/Users/wangqifan/apache-maven-3.9.12/conf/settings.xml",
+    "redhat.telemetry.enabled": true,
+    "java.configuration.maven.userSettings": "/Users/wangqifan/apache-maven-3.9.12/conf/settings.xml",
+    "java.configuration.maven.globalSettings": "/Users/wangqifan/apache-maven-3.9.12/conf/settings.xml",
+    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
+    "chat.mcp.serverSampling": {
+        "Global in Code: figma": {
+            "allowedModels": [
+                "copilot/gpt-5-mini",
+                "copilot/auto",
+                "copilot/claude-haiku-4.5",
+                "copilot/claude-3.5-sonnet",
+                "copilot/claude-sonnet-4",
+                "copilot/claude-sonnet-4.5",
+                "copilot/gemini-2.5-pro",
+                "copilot/gpt-4.1",
+                "copilot/gpt-4o",
+                "copilot/gpt-5",
+                "copilot/gpt-5-codex",
+                "copilot/grok-code-fast-1"
+            ]
+        }
+    },
+    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+    "chat.viewSessions.orientation": "stacked",
+    "terminal.integrated.initialHint": false,
+    "workbench.browser.enableChatTools": true,
+    "chat.tools.terminal.autoApprove": {
+        "/^pnpm -s typecheck$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd apps/maiababywork && pnpm android$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false,
+    "chat.tools.urls.autoApprove": {
+        "https://code.visualstudio.com": true,
+        "https://github.com/microsoft/vscode/wiki/*": true,
+        "https://help.aliyun.com": true,
+        "https://help.aliyun.com/zh/vod/developer-reference/Chinese-Chinese-Chinese": true,
+        "https://help.aliyun.com/zh/vod/developer-reference": true,
+        "https://help.aliyun.com/zh/vod": true,
+        "https://help.aliyun.com/zh": true,
+        "https://*.aliyun.com": true
+    },
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.editor.enablePreview": false,
+    "yaml.disableSchemaDetection": [
+        "**/.github/workflows/*.yml",
+        "**/.github/workflows/*.yaml",
+        "**/.gitea/workflows/*.yml",
+        "**/.gitea/workflows/*.yaml",
+        "**/.forgejo/workflows/*.yml",
+        "**/.forgejo/workflows/*.yaml"
+    ],
+}
